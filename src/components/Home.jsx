@@ -55,7 +55,7 @@ function Home() {
           </div>
           <div className='flex flex-col justify-center p-4 gap-8'>
           <span className='text-5xl'>Top Management, to help you see the bigger picture</span>
-          <span className='text-gray-400 text-xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas massa massa id arcu blandit dignissim contum volutpat dolor fermentum, justo tempor.</span>
+          <span className='text-gray-400 text-xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas massa massa id arcu blandit dignissim contum volutpat dolor fermentum,Lorem, ipsum..</span>
           <ul className='flex flex-col gap-2'>
             <li><div className='flex flex-row gap-2 items-center'><img className='w-8 h-8' src="https://assets.website-files.com/62bc1260fe7b1f3d37a8ea01/62bc4a566d06e55f48fbe8a4_Checkmark%20Icon.png" alt="" /><p>Lorem, ipsum dolor.</p></div></li>
             <li><div className='flex flex-row gap-2 items-center'><img className='w-8 h-8' src="https://assets.website-files.com/62bc1260fe7b1f3d37a8ea01/62bc4a566d06e55f48fbe8a4_Checkmark%20Icon.png" alt="" /><p>Lorem, ipsum dolor.</p></div></li>
