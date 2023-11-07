@@ -1,0 +1,5 @@
+.navlinks:hover{
+    border-bottom: 1px solid white;
+    transition:450ms ease-out;
+    
+}
