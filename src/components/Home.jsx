@@ -3,7 +3,7 @@ import './home.css'
 function Home() {
   return (
 
-    <div className='font-bold w-full h-full bg-black text-white flex flex-col items-center justify-center gap-32 py-16 px-4'>
+    <section className='font-bold w-full h-full bg-black text-white flex flex-col items-center justify-center gap-16 py-16 px-4'>
       <div className='flex flex-col justify-center items-center gap-4 p-8'>
         <div className='head flex-wrap text-5xl lg:text-7xl flex flex-col justify-center items-center'><span>Tailormade to Manage all</span><span>your Data registers</span></div>
         <div className='flex flex-col text-xl justify-center items-center flex-wrap text-gray-400'><span>Operate with your data predictably, securely, and at a lower cost in an intuitive</span><span>and easy to navigate dashboard.Designed to run all your data types.</span></div>
@@ -64,7 +64,22 @@ function Home() {
           </div>
         </div>
         </div>
-    </div>
+        <div className='bg-black w-full h-full flex flex-col justify-center items-center p-4 gap-16'>
+          <div>
+          <span>Access powerful and helpful features.</span>
+          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At etiam tellus aliquet risus, odio vitae cras viverra elementum.</span>
+          <button>Request a demo</button>
+          </div>
+          <div>
+            <div className='bg-gray-500 border-2'>
+              <h1>Design with real native elements</h1>
+              <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+              <img src="https://assets.website-files.com/62bc1260fe7b1f3d37a8ea01/62bc5d770ac88d5925a5d9a7_Feature%20Grid%20Image%2002.svg" alt="" />
+            </div>
+            <div></div>
+          </div>
+        </div>
+    </section>
   )
 }
 
