@@ -6,12 +6,12 @@
     border-right: 2px solid white;
     width: 30%;
     height: 100vh;
-    overflow: scroll;
+    overflow-y:auto;
 
 }
 .hero{
     width: 70%;
     height: 100vh;
-    overflow: scroll;
+    overflow-y:auto;
     
 }
